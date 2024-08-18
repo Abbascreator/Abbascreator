@@ -1,0 +1,14 @@
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+body {
+  position: relative;
+}
+
+img {
+  position: absolute;
+  top: 10px;
+  right: 0px;
+}
